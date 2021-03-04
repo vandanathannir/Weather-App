@@ -3,9 +3,9 @@ Built a weather dashboard in Flask using OpenWeatherMap API that takes in any zi
 Built with: Python, HTML, and CSS
 
 # App in Action:
-Image 1: Home Page
-Image 2: User enters Zip Code
-Image 3: Result Page
+Image 1: Home Page  <br>
+Image 2: User enters Zip Code  <br>
+Image 3: Result Page  <br>
 <p float="left>
   <img src="https://user-images.githubusercontent.com/55611197/109895259-ea9e2400-7c5c-11eb-9241-6ffc03cd99fd.png" width="100">
   <img src="https://user-images.githubusercontent.com/55611197/109895259-ea9e2400-7c5c-11eb-9241-6ffc03cd99fd.png" width="300">                                    
